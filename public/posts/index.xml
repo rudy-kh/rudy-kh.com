@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rudy Khalil</title>
+    <link>https://rudy-kh.com/posts/</link>
+    <description>Recent content in Posts on Rudy Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 May 2018 01:57:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://rudy-kh.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog is up and running with Hugo and Netlify</title>
+      <link>https://rudy-kh.com/posts/my-first-post/</link>
+      <pubDate>Mon, 21 May 2018 01:57:18 +0200</pubDate>
+      
+      <guid>https://rudy-kh.com/posts/my-first-post/</guid>
+      <description>And now after setting up my blog with Hugo and Netlify for a few hours, this is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>
