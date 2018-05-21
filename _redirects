@@ -1,2 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-http://pensive-easley-7a4895.netlify.com/* http://rudy-kh.com/:splat 301!
+https://rudy-kh.netlify.com/* https://rudy-kh.com/:splat 301!
+
+# These extra rules are required because HTTPS is not forced
+http://rudy-kh.netlify.com/* https://rudy-kh.com/:splat 301!
