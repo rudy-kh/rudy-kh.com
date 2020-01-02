@@ -6,10 +6,20 @@
     <description>Recent content on Rudy Khalil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2020 01:47:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 02:16:07 +0100</lastBuildDate>
     
 	<atom:link href="https://rudy-kh.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://rudy-kh.com/about-me/</link>
+      <pubDate>Thu, 02 Jan 2020 02:16:07 +0100</pubDate>
+      
+      <guid>https://rudy-kh.com/about-me/</guid>
+      <description>Hi,
+I&amp;rsquo;m Rudy Khalil. A software developer at SAP. I&amp;rsquo;m passionate about developing applications in the cloud. I use Java with Spring/Spring Boot in my day to day job, but like to play with python and Go occasionally.</description>
+    </item>
     
     <item>
       <title>Third Post</title>
