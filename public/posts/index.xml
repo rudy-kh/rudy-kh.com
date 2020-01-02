@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Rudy Khalil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 May 2018 01:57:18 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 01:47:57 +0100</lastBuildDate>
     
 	<atom:link href="https://rudy-kh.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://rudy-kh.com/posts/third-post/</link>
+      <pubDate>Thu, 02 Jan 2020 01:47:57 +0100</pubDate>
+      
+      <guid>https://rudy-kh.com/posts/third-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My reflection on year 2019</title>
+      <link>https://rudy-kh.com/posts/second-post/</link>
+      <pubDate>Thu, 02 Jan 2020 01:45:52 +0100</pubDate>
+      
+      <guid>https://rudy-kh.com/posts/second-post/</guid>
+      <description>This is a post on my reflection on year 2019!</description>
+    </item>
     
     <item>
       <title>Blog is up and running with Hugo and Netlify</title>
